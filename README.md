@@ -1,5 +1,5 @@
 # ruby_basics
-App:
+
 
 • records the location of a line of text in the file
 
